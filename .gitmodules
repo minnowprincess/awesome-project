@@ -1,0 +1,3 @@
+[submodule "vendor/awesome-module"]
+	path = vendor/awesome-module
+	url = git@github.com:minnowprincess/awesome-module.git
